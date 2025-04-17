@@ -1,0 +1,30 @@
+{
+    "TICKET_CONFIG": {
+        "TICKET_CHANNEL": 1362139055063695570,
+        "TRANSCRIPTS": 1362516717670236371,
+        "TICKET_LOG": 1362139201042387055,
+        "TICKET_ROLES": [
+            1362139130707837110
+        ],
+        "TICKET_CATEGORIES": {
+            "CATEGORY_1": 1362148303659208786,
+            "CATEGORY2": 1362148303659208786
+        },
+        "TICKET_MESSAGES": {
+            "TICKET_MENU": {
+                "TITLE": "Ajuda CodeHub",
+                "DESCRIPTION": "Pressione o botão abaixo para abrir o ticket",
+                "THUMBNAIL": "https://cdn.discordapp.com/attachments/1327335827566624910/1362231221903560814/codehub_tickets.png?ex=6801a430&is=680052b0&hm=dabd9b06255be1ea7cf9c6b625bb9c77555431cda105437eb8f37fc1b81a11d1&",
+                "IMAGE": ""
+            },
+            "TICKET_OPENED": {
+                "TITLE": "Code Hub® | Tickets",
+                "DESCRIPTION": "Aberto por: {user}\nTicket ID: {channel.id}\n\n```Descreve abaixo o motivo da abertura do ticket.```"
+            },
+            "TICKET_CLOSED": {
+                "TITLE": "Ticket Fechado",
+                "DESCRIPTION": "Ticket fechado!"
+            }
+        }
+    }
+}
